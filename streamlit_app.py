@@ -52,7 +52,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # --- UI Title ---
-st.markdown('<div class="title">🫁 Lung Cancer Detector</div>', unsafe_allow_html=True)
+st.markdown('<div class="title">Lung Cancer Detector</div>', unsafe_allow_html=True)
 st.markdown('<div class="subtitle">Upload a lung CT image and choose model to detect cancer type</div>', unsafe_allow_html=True)
 
 # --- Model Selection ---
