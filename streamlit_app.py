@@ -7,7 +7,7 @@ import os
 from io import BytesIO
 
 # Streamlit config
-st.set_page_config(page_title="🫁 Lung Cancer Detector", layout="centered")
+st.set_page_config(page_title="Lung Cancer Detector", layout="centered")
 
 # --- CSS Styling ---
 st.markdown("""
